@@ -9,7 +9,7 @@
 	<body>
 	<h1>Velkommen til Valgfaget Teknologi og design!!</h1>
 <img src="https://scontent.ftrd4-1.fna.fbcdn.net/v/t1.0-9/29187207_209480936307219_3984917456441245951_n.jpg?_nc_cat=111&ccb=3&_nc_sid=09cbfe&_nc_ohc=Fau7vjF4t24AX8eqo6w&_nc_ht=scontent.ftrd4-1.fna&oh=49e0587671fed1121ec3aec62402aac9&oe=604E9A56" alt="Åset" style="float:right;width:150px;height:128px;">
-Dette er en test
+
 I tiden framover skal vi arbide med koding og programmering, og vi skal utforske ulike bruksområder for ulik type koding. Men hva er det i læreplanen som gir oss mulighet til å arbeide med dette?
 
 <h2>Læreplanen LK20</h2>
@@ -23,12 +23,13 @@ I læreplanen står det blant annet at faget skal <q>bidra til at elevane utvikl
 Valfaget teknologi og design skal bidra til at elevane får utfalde skaparglede, engasjement og utforskartrong. Elevane skal få erfaring med å sjå moglegheiter med teknologi og designprosessar gjennom utforsking og skapande arbeid, åleine og i samarbeid med andre. Problemløysing, kritisk tenking og etisk medvit kring teknologi står sentralt i faget</blockquote>
 
 <h3>Kompetansemål</h3>
-Av kompetansemålene vi skal arbeide med er de følgende de mest relevante:
+<p>Av kompetansemålene vi skal arbeide med er de følgende de mest relevante:
 <ul>
 	<li>designe og grunngi konsept for teknologiske produkt
     	<li>velje og bruke ulike materialar og verktøy i arbeidet med prototypar for teknologiske produkt
 	<li>lage prototypar for teknologiske produkt og reflektere over korleis desse kan betrast eller utviklast vidare
 </ul>
+</p>
 
 <h2>Prosjektoppgave</h2>
 

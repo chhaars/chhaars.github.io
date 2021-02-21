@@ -1,5 +1,6 @@
 theme: jekyll-theme-hacker
 title: Valgfaget teknologi og design
 description: Nettside utviklet i valgfaget teknologi og design 
+github:
+  is_project_page: false
 
-<img src="https://github.com/chhaars/chhaars.github.io/blob/main/Bilder/logo.png" alt="Åset" style="float:right;width:150px;height:128px;">

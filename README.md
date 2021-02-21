@@ -1,6 +1,3 @@
-# chhaars.github.io
-
-<!doctype html>
 <html>
 
 	<head>
@@ -29,7 +26,7 @@ Valfaget teknologi og design skal bidra til at elevane får utfalde skaparglede,
 Av kompetansemålene vi skal arbeide med er de følgende de mest relevante:
 <ul>
 	<li>designe og grunngi konsept for teknologiske produkt
-    <li>velje og bruke ulike materialar og verktøy i arbeidet med prototypar for teknologiske produkt
+    	<li>velje og bruke ulike materialar og verktøy i arbeidet med prototypar for teknologiske produkt
 	<li>lage prototypar for teknologiske produkt og reflektere over korleis desse kan betrast eller utviklast vidare
 </ul>
 

@@ -8,6 +8,8 @@
 	
 	<body>
 	<h1>Velkommen til Valgfaget Teknologi og design!!</h1>
+
+!Åset(https://github.com/chhaars/chhaars.github.io/blob/main/logo.png?raw=true)
 <img src="https://github.com/chhaars/chhaars.github.io/blob/main/Bilder/logo.png" alt="Åset" style="float:right;width:150px;height:128px;">
 
 I tiden framover skal vi arbide med koding og programmering, og vi skal utforske ulike bruksområder for ulik type koding. Men hva er det i læreplanen som gir oss mulighet til å arbeide med dette?

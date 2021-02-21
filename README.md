@@ -23,13 +23,13 @@ I læreplanen står det blant annet at faget skal <q>bidra til at elevane utvikl
 Valfaget teknologi og design skal bidra til at elevane får utfalde skaparglede, engasjement og utforskartrong. Elevane skal få erfaring med å sjå moglegheiter med teknologi og designprosessar gjennom utforsking og skapande arbeid, åleine og i samarbeid med andre. Problemløysing, kritisk tenking og etisk medvit kring teknologi står sentralt i faget</blockquote>
 
 <h3>Kompetansemål</h3>
-<p>Av kompetansemålene vi skal arbeide med er de følgende de mest relevante:
+Av kompetansemålene vi skal arbeide med er de følgende de mest relevante:
 <ul>
 	<li>designe og grunngi konsept for teknologiske produkt
     	<li>velje og bruke ulike materialar og verktøy i arbeidet med prototypar for teknologiske produkt
-	<li>lage prototypar for teknologiske produkt og reflektere over korleis desse kan betrast eller utviklast vidare
+	<li>lage prototypar for teknologiske produkt og reflektere over korleis desse kan betrast eller utviklast vidare</ul>
 
-</p>
+
 
 <h2>Prosjektoppgave</h2>
 
